@@ -25,4 +25,4 @@ Example:
 
 ```
 
-![Picture1](VFARcrossCorrPlot_m.png)
+![Picture1](VFARmapePlot_m.png)
